@@ -78,7 +78,7 @@ Did you decide to start using Unfold but you don't have time to make the switch 
 
 ## Installation
 
-The installation process is minimal. Everything what is needed after installation is to put new application at the beginning of **INSTALLED_APPS**. Default admin configuration in urls.py can stay as it is and there are no changes required.
+The installation process is minimal. Everything that is needed after installation is to put new application at the beginning of **INSTALLED_APPS**. Default admin configuration in urls.py can stay as it is and there are no changes required.
 
 ```python
 # settings.py
